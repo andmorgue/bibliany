@@ -2,8 +2,6 @@
 
 Pesquise livros digitais e audiolivros em bibliotecas públicas
 
-Acesse em: [https://andguerreiro.codeberg.page/bibliany/](https://andguerreiro.codeberg.page/bibliany/)
+Criado e atualizado por Andrews Guerreiro, livreiro do Sebo Menos Telas
 
-Criado e atualizado por [Andrews Guerreiro](https://codeberg.org/andguerreiro), livreiro do [Sebo Menos Telas](https://codeberg.org/andguerreiro/sebomenostelas)
-
-Logo criado por vectorsmarket15 e baixado de [flaticon.com](https://flaticon.com)
+Logo criado por vectorsmarket15 e baixado de flaticon.com
